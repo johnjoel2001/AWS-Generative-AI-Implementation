@@ -25,6 +25,7 @@ This mini-project is built for **Week 5: AWS Generative AI Implementation** and 
 - 📊 Logging of usage for analysis or metrics
 
 ---
+The application is live at: https://i8pvyyrff7.us-east-1.awsapprunner.com/ui
 
 
 
